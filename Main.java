@@ -5,7 +5,6 @@ public class Main {
 	
 	public static void Menu(){  // PROCEDURE AFIN D'AFFICHER LE MENU
 		System.out.println("****************************************************************");
-		System.out.println("                                                                ");
 		System.out.println("*             APPRENDS LES TABLES DE MULTIPLICATION            *");
 		System.out.println("* 1 - Veux tu voir la totalité des tables de multiplications ? *");
 		System.out.println("*           2 - Veux tu voir une table particulière ?          *");
@@ -14,7 +13,6 @@ public class Main {
 		System.out.println("*           5 - Veux tu réaliser le meilleur score ?           *");
 		System.out.println("*              6 - Veux tu quitter le programme ?              *");
 		System.out.println("*                    Quel est ton choix ?                      *");
-		System.out.println("                                                                ");		
 		System.out.println("****************************************************************");
 		System.out.println("");
 	}
